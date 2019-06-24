@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(20, 25, 30);
+  text-align: center;
+  color: rgb(200,200,200)
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Constraints{
+  width: 50vw;
+}
+.First-Con{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  h4{
+    font-size: 2rem;
+  }
+}
+
